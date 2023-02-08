@@ -1,0 +1,10 @@
+CPF/CNPJ,Nome/Razao Social,Apelido/Nome Fantasia,Email,Telefone celular,Telefone fixo,CEP,Logradouro,Numero,Complemento,Bairro,Cidade,UF
+488.489.346-84,Joao da Silva,Joao,joao@exemplo.com.br,41998857890,,,,,,,,
+442.351.728-08,Pedro,,,,,,,,,,,
+15.508.435/0001-19,Razao Social Ltda,Nome Fantasia,email@empresa.com.br,48999957896,(48)03626-2870,88702-898,RUA JOS� DE SOUZA BORGES,23,sala02,S�O JO�O (MARGEM DIREIT,TUBAR�O,SC
+49331219000162,Razao Social SA,,,,,,,,,,,
+084.622.497-67,Razao Social SA,,,5541998874567,,,,,,,,
+123343,Invalid cadastro nacional,,,,,,,,,,,
+43.663.457/0001-99,Invalid email,,invalid@,,,,,,,,,
+14.286.975/0001-32,,,,,,,,,,,,
+488.489.346-84,Duplicado,,,,,,,,,,,

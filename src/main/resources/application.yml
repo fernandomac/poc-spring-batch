@@ -1,0 +1,17 @@
+spring:
+  batch:
+    jdbc:
+      initialize-schema: always  
+    job:
+      enabled: false
+  datasource: 
+
+    password: $elsyN123
+    url: jdbc:mysql://localhost:3306/dbbatch
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    
+    
